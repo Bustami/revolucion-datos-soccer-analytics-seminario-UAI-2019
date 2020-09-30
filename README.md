@@ -2,3 +2,5 @@ Contenido para crear slides de la charla "La revolución de los datos en Soccer 
 
 Acá se pueden ver los slides:
 * http://datofutbol.cl/revolucion-datos-soccer-analytics-seminario-UAI-2019/
+
+![](assets/img/fondo.png)
